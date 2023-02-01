@@ -6,7 +6,7 @@ Landsat 8 satellite images from the Google Earth Engine archive. The IBI method 
 normalized difference vegetation index (NDVI), and modified normalized difference water index (MNDWI) - to identify urban land.</p>
 <p>
   <b>Study Area</b><br>
-  Chbar Ampov is a district in the central part of Phnom Penh, Cambodia. It was created in December 2013 by dividing eight communes from Khan Mean Chey. The district is on the east side of Phnom Penh and is separated from the city by the Bassac river. The district has an area of 86.7 square kilometres and a total population of 5280 (National Institute of Statistics, 2019).
+  Chbar Ampov is a district in the central part of Phnom Penh, Cambodia. It was created in December 2013 by dividing eight communes from Khan Mean Chey. The district is on the east side of Phnom Penh and is separated from the city by the Bassac river. The district has an area of 86.7 square kilometres and a total population of 5280 (National Institute of Statistics, 2019).<br>
   <b>Dataset</b><br>
   Landsat 8 Tier 1 from Google Earth Engine Archive. (ee.ImageCollection('LANDSAT/LC08/C01/T1_SR'))
 </p>
