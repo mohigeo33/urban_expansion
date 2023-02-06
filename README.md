@@ -1,6 +1,3 @@
-<h2>Detection of Urban Area Expansion through Indices based Change Detection using Landsat Imagery in Google Earth Engine(GEE)</h2>
-<br>
-<p> <i>[This repository contains the codes for the titled paper.]</i></p>
 <p> This study analyses built-up area expansion in Chbar Ampov, a district in Phnom Penh, Cambodia, using the Indices-based built-up index (IBI). The study used
 Landsat 8 satellite images from the Google Earth Engine archive. The IBI method combines three land use indices – normalized difference built-up index (NDBI),
 normalized difference vegetation index (NDVI), and modified normalized difference water index (MNDWI) - to identify urban land.</p>
