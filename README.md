@@ -1,6 +1,6 @@
 
 <p>
-<i>DOI: 10.1553/giscience2023_02_s18</i>
+<i>https://austriaca.at/?arp=0x003eafee</i><br>
 This study analyses built-up area expansion in Chbar Ampov, a district in Phnom Penh, Cambodia, using the Indices-based built-up index (IBI). The study used
 Landsat 8 satellite images from the Google Earth Engine archive. The IBI method combines three land use indices – normalized difference built-up index (NDBI),
 normalized difference vegetation index (NDVI), and modified normalized difference water index (MNDWI) - to identify urban land.</p>
